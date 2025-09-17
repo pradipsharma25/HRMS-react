@@ -1,0 +1,293 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin",
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "phone": "123-456-7890",
+      "department": "Admin",
+      "position": "Administrator",
+      "joinDate": "2023-01-01",
+      "salary": 100000,
+      "status": "active",
+      "leaves": 0,
+      "usedLeaves": 0,
+      "photoUrl": "https://ui-avatars.com/api/?name=Admin+User&background=random&color=fff"
+    },
+    {
+      "id": "2",
+      "username": "john",
+      "password": "john123",
+      "role": "employee",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "987-654-3210",
+      "department": "Engineering",
+      "position": "Developer",
+      "joinDate": "2024-01-01",
+      "salary": 80000,
+      "status": "active",
+      "leaves": 12,
+      "usedLeaves": 2,
+      "photoUrl": "https://ui-avatars.com/api/?name=John+Doe&background=random&color=fff"
+    },
+    {
+      "id": "a6ca",
+      "username": "pradip",
+      "password": "pradip",
+      "role": "admin",
+      "name": "pradip sharma",
+      "email": "pradip@gmail.com",
+      "phone": "9862654788",
+      "department": "Engineering",
+      "position": "IT Engineer",
+      "joinDate": "2025-08-30",
+      "salary": 70000,
+      "status": "active",
+      "leaves": 12,
+      "usedLeaves": 0,
+      "photoUrl": "https://ui-avatars.com/api/?name=pradip+sharma&background=random&color=fff"
+    },
+    {
+      "id": "ba74",
+      "username": "pradip",
+      "password": "pradip",
+      "role": "admin",
+      "name": "pradip sharma",
+      "email": "pradip@gmail.com",
+      "phone": "985483215",
+      "department": "Engineering",
+      "position": "IT Engineer",
+      "joinDate": "2025-08-30",
+      "salary": 70000,
+      "status": "active",
+      "leaves": 12,
+      "usedLeaves": 0,
+      "photoUrl": "https://ui-avatars.com/api/?name=pradip+sharma&background=random&color=fff"
+    },
+    {
+      "id": "5024",
+      "username": "mark",
+      "password": "mark",
+      "name": "mark",
+      "email": "mark@gmail.com",
+      "phone": "9813543245",
+      "department": "Sales",
+      "position": "test",
+      "role": "employee",
+      "joinDate": "2025-08-30",
+      "salary": 50000,
+      "status": "active",
+      "leaves": 12,
+      "usedLeaves": 0,
+      "photoUrl": "https://ui-avatars.com/api/?name=mark&background=random&color=fff"
+    },
+    {
+      "id": "398d",
+      "username": "tests",
+      "password": "test123",
+      "role": "admin",
+      "name": "test test",
+      "email": "test@gmail.com",
+      "phone": "986943543431",
+      "department": "Finance",
+      "position": "test",
+      "joinDate": "2025-08-30",
+      "salary": 10000,
+      "status": "active",
+      "leaves": 12,
+      "usedLeaves": 0,
+      "photoUrl": "https://ui-avatars.com/api/?name=test+test&background=random&color=fff"
+    },
+    {
+      "id": "c12c",
+      "username": "test",
+      "password": "test",
+      "role": "admin",
+      "name": "test test",
+      "email": "test@example.com",
+      "phone": "984614354321",
+      "department": "Marketing",
+      "position": "Developer",
+      "joinDate": "2025-08-30",
+      "salary": 8000,
+      "status": "active",
+      "leaves": 12,
+      "usedLeaves": 0,
+      "photoUrl": "https://ui-avatars.com/api/?name=test+test&background=random&color=fff"
+    },
+    {
+      "id": "ba7b",
+      "username": "test",
+      "password": "test",
+      "role": "employee",
+      "name": "test tes",
+      "email": "test@example.com",
+      "phone": "984614354321",
+      "department": "HR",
+      "position": "Developer",
+      "joinDate": "2025-08-30",
+      "salary": 8000,
+      "status": "active",
+      "leaves": 12,
+      "usedLeaves": 0,
+      "photoUrl": "https://ui-avatars.com/api/?name=test+test&background=random&color=fff"
+    },
+    {
+      "id": "911f",
+      "username": "aditya",
+      "password": "aditya",
+      "role": "employee",
+      "name": "Aditya Thapa ",
+      "email": "aditya@gmail.com",
+      "phone": "984233213454",
+      "department": "Engineering",
+      "position": "Security Engineer",
+      "joinDate": "2025-08-30",
+      "salary": 100000,
+      "status": "active",
+      "leaves": 12,
+      "usedLeaves": 0,
+      "photoUrl": "https://ui-avatars.com/api/?name=Aditya+Thapa &background=random&color=fff"
+    },
+    {
+      "id": "4639",
+      "username": "musaraf",
+      "password": "kuli",
+      "role": "employee",
+      "name": "musaraf naeem",
+      "email": "mustaraf@gmail.com",
+      "phone": "987986235",
+      "department": "Marketing",
+      "position": "Marketing head",
+      "joinDate": "2025-09-01",
+      "salary": 90000,
+      "status": "active",
+      "leaves": 12,
+      "usedLeaves": 0,
+      "photoUrl": "https://ui-avatars.com/api/?name=musaraf+naeem&background=random&color=fff"
+    },
+    {
+      "id": "5d45",
+      "username": "sandesh",
+      "password": "12345",
+      "name": "Sandesh Dahal",
+      "email": "sandesh@sandesh.com",
+      "phone": "9819343246",
+      "department": "Engineering",
+      "position": "System Engineer",
+      "role": "employee",
+      "joinDate": "2025-09-17",
+      "salary": 50000,
+      "status": "active",
+      "leaves": 12,
+      "usedLeaves": 0,
+      "photoUrl": "https://ui-avatars.com/api/?name=Sandesh+Dahal&background=random&color=fff"
+    }
+  ],
+  "attendance": [
+    {
+      "id": "91a2",
+      "userId": 2,
+      "date": "2025-08-30",
+      "status": "present",
+      "checkIn": "12:44",
+      "checkOut": "-"
+    },
+    {
+      "id": "860a",
+      "userId": "5024",
+      "date": "2025-08-30",
+      "status": "present",
+      "checkIn": "13:14",
+      "checkOut": "-"
+    },
+    {
+      "id": "e926",
+      "userId": "5024",
+      "date": "2025-08-31",
+      "status": "present",
+      "checkIn": "09:19",
+      "checkOut": "-"
+    },
+    {
+      "id": "c4a0",
+      "userId": "5024",
+      "date": "2025-09-01",
+      "status": "present",
+      "checkIn": "07:48",
+      "checkOut": "-"
+    },
+    {
+      "id": "95db",
+      "userId": "5d45",
+      "date": "2025-09-17",
+      "status": "present",
+      "checkIn": "14:54",
+      "checkOut": "-"
+    }
+  ],
+  "leaves": [
+    {
+      "id": "d8d5",
+      "userId": 2,
+      "type": "Sick Leave",
+      "from": "2025-08-30",
+      "to": "2025-08-31",
+      "reason": "Test leave",
+      "status": "approved",
+      "appliedDate": "2025-08-30"
+    },
+    {
+      "id": "fa1b",
+      "userId": "5024",
+      "type": "Emergency Leave",
+      "from": "2025-08-30",
+      "to": "2025-08-31",
+      "reason": "test leave",
+      "status": "approved",
+      "appliedDate": "2025-08-30"
+    },
+    {
+      "id": "8440",
+      "userId": "5024",
+      "type": "Paternity Leave",
+      "from": "2025-08-31",
+      "to": "2025-09-02",
+      "reason": "test",
+      "status": "rejected",
+      "appliedDate": "2025-09-01"
+    }
+  ],
+  "payroll": [],
+  "departments": [
+    {
+      "id": "1",
+      "name": "Engineering",
+      "employeeCount": 5
+    },
+    {
+      "id": "2",
+      "name": "Marketing",
+      "employeeCount": 3
+    },
+    {
+      "id": "3",
+      "name": "Sales",
+      "employeeCount": 4
+    },
+    {
+      "id": "4",
+      "name": "HR",
+      "employeeCount": 2
+    },
+    {
+      "id": "5",
+      "name": "Finance",
+      "employeeCount": 3
+    }
+  ]
+}
